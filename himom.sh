@@ -8,5 +8,7 @@ echo "Oh wow"
 sleep 1
 echo "I can't believe that"
 sleep 1
+echo "Me too!"
+sleep 1
 echo "Bye, love you too."
 
